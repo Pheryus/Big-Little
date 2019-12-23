@@ -503,7 +503,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   levelPrefabs:
-  - {fileID: 826517123341192934, guid: be66edd915b4f754c897f88275b26f7f, type: 3}
+  - {fileID: 372486330399802304, guid: f3ab838efce79594493275007e367dde, type: 3}
   - {fileID: 3917244663250094050, guid: 413cc356101be1f4da94b8e60366c97a, type: 3}
   - {fileID: 8470568779330081745, guid: 65598433da497e04190476f7b233f609, type: 3}
   - {fileID: 4672811464737027552, guid: 80990f9eede662b4987ded32728d681d, type: 3}
